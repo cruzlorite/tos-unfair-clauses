@@ -1,3 +1,5 @@
+name: build & pubish docs
+
 on:
   push:
     branches:
