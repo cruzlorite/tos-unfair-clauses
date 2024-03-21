@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[1739],{1871:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/tos-unfair-clauses/blog/tags/docusaurus","allTagsPath":"/tos-unfair-clauses/blog/tags","count":4,"unlisted":false}')}}]);
