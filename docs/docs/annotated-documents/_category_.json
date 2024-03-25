@@ -1,0 +1,9 @@
+{
+  "label": "Annotated Documents",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Manually annotated documents in search of potentially unfair clauses."
+  }
+}
+  
