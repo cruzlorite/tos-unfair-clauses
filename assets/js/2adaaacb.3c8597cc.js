@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[5208],{2114:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/tos-unfair-clauses/blog/tags/facebook","allTagsPath":"/tos-unfair-clauses/blog/tags","count":1,"unlisted":false}')}}]);
