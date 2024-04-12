@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" modified="2024-03-25T11:50:43.492Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="E6ef9UPPfz7giJUfeImK" version="24.0.7" type="device">
+  <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
+    <mxGraphModel dx="265" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FjUAR1BoDAeiUwxK6PEe-1" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1305" y="558" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FjUAR1BoDAeiUwxK6PEe-2" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#DDDDDD;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="210" width="790" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="FjUAR1BoDAeiUwxK6PEe-3" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=0;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#CCCCCC;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1270" y="330" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="FjUAR1BoDAeiUwxK6PEe-4" value="The Unfair Contract Terms Directive" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="1430" y="220" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FjUAR1BoDAeiUwxK6PEe-5" value="Unfair Commercial Practices Directive" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="1730" y="220" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FjUAR1BoDAeiUwxK6PEe-6" value="1985" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=1;fontSize=18;align=center;strokeWidth=0;" parent="1" vertex="1">
+          <mxGeometry x="1270" y="290" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FjUAR1BoDAeiUwxK6PEe-7" value="1993" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=1;fontSize=18;align=center;strokeWidth=0;" parent="1" vertex="1">
+          <mxGeometry x="1420" y="290" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FjUAR1BoDAeiUwxK6PEe-8" value="1998" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=1;fontSize=18;align=center;strokeWidth=0;" parent="1" vertex="1">
+          <mxGeometry x="1570" y="290" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FjUAR1BoDAeiUwxK6PEe-9" value="2011" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=1;fontSize=18;align=center;strokeWidth=0;" parent="1" vertex="1">
+          <mxGeometry x="1880" y="410" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FjUAR1BoDAeiUwxK6PEe-10" value="Omnibus Directive" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=0;" parent="1" vertex="1">
+          <mxGeometry x="1430" y="340" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FjUAR1BoDAeiUwxK6PEe-11" value="Directive on Representative Actions" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=1;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="340" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FjUAR1BoDAeiUwxK6PEe-12" value="Price Indication Directive" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="1580" y="220" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FjUAR1BoDAeiUwxK6PEe-13" value="Consumer Rights Directive" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=0;" parent="1" vertex="1">
+          <mxGeometry x="1880" y="340" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FjUAR1BoDAeiUwxK6PEe-14" value="" style="curved=0;endArrow=async;html=1;rounded=1;verticalAlign=middle;endFill=1;strokeWidth=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1260" y="290" as="sourcePoint" />
+            <mxPoint x="1260" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2020" y="290" />
+              <mxPoint x="2020" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FjUAR1BoDAeiUwxK6PEe-15" value="Product Liability Directive" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="220" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FjUAR1BoDAeiUwxK6PEe-16" value="2005" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=1;fontSize=18;align=center;strokeWidth=0;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="290" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FjUAR1BoDAeiUwxK6PEe-17" value="CPC Regulation" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="1880" y="220" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FjUAR1BoDAeiUwxK6PEe-18" value="2006" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=1;fontSize=18;align=center;strokeWidth=0;" parent="1" vertex="1">
+          <mxGeometry x="1870" y="290" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FjUAR1BoDAeiUwxK6PEe-19" value="CPC Regulation Update" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=0;" parent="1" vertex="1">
+          <mxGeometry x="1580" y="340" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FjUAR1BoDAeiUwxK6PEe-20" value="2017" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=1;fontSize=18;align=center;strokeWidth=0;" parent="1" vertex="1">
+          <mxGeometry x="1730" y="410" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FjUAR1BoDAeiUwxK6PEe-21" value="2019" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=1;fontSize=18;align=center;strokeWidth=0;" parent="1" vertex="1">
+          <mxGeometry x="1430" y="410" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FjUAR1BoDAeiUwxK6PEe-22" value="2020" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=1;fontSize=18;align=center;strokeWidth=0;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="410" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FjUAR1BoDAeiUwxK6PEe-23" value="New Deal for Consumers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;fontStyle=0;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="1270" y="430" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FjUAR1BoDAeiUwxK6PEe-28" value="&lt;p class=&quot;ecl-page-header-standardised__title ecl-u-mb-xl&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-weight: normal; font-size: 14px;&quot;&gt;Fitness Check of consumer and marketing law&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=0;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1730" y="340" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FjUAR1BoDAeiUwxK6PEe-30" value="2017" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=1;fontSize=18;align=center;strokeWidth=0;" parent="1" vertex="1">
+          <mxGeometry x="1580" y="410" width="130" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
